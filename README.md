@@ -1,13 +1,13 @@
 # Chat
 Chat App with websocket from JavaEE and with a chat robot, which sends random numbers to the chat.
 
-#Installation and Start
+# Installation and Start
 - Download websocket_chat.war file
 - Put this file to your server webapps folder (e.g under *C:\Program Files\apache-tomcat-9.0.11\webapps*)
 - Start up your server
 - Open your browser and go to **http://localhost:8080/websocket_chat/rest/chat**
 
-#Using chat
+# Using chat
 Start page:
 ![start_page](screenshots/welcome.JPG)
 
