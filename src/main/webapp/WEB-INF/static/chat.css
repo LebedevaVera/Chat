@@ -1,0 +1,31 @@
+#container {
+	width: 60%;
+	margin: 20px auto;
+	border: 1px solid black;
+}
+
+#msg {
+	width: 80%;
+	float: left; 
+	height: 80vh;
+	border: 1px solid black;
+	overflow: auto;
+}
+
+#userList {
+	width: 19%;
+	float: right;
+	height: 80vh;
+	border: 1px solid black;
+	overflow: auto;
+}
+
+#inputField {
+	width: 80%;
+	height:30px;
+}
+
+#sendBtn {
+	width: 18%;
+	height: 30px;
+}
